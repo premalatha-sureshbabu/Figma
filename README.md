@@ -33,10 +33,13 @@ Publish the website in the given URL.
 
 
 position: relative;
+
 width: 360px;
+
 height: 640px;
 
 background: #FA0000;
+
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 
@@ -44,10 +47,13 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 
 position: relative;
+
 width: 367px;
+
 height: 640px;
 
 background: #FAFF03;
+
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 
@@ -55,16 +61,25 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 
 position: absolute;
+
 width: 318px;
+
 height: 46px;
+
 left: 12px;
+
 top: 12px;
 
 font-family: 'Inter';
+
 font-style: normal;
+
 font-weight: 400;
+
 font-size: 20px;
+
 line-height: 24px;
+
 text-align: center;
 
 color: #000000;
@@ -75,16 +90,25 @@ color: #000000;
 
 
 position: absolute;
+
 width: 318px;
+
 height: 46px;
+
 left: 12px;
+
 top: 209px;
 
 font-family: 'Inter';
+
 font-style: normal;
+
 font-weight: 400;
+
 font-size: 20px;
+
 line-height: 24px;
+
 text-align: center;
 
 color: #000000;
@@ -95,17 +119,27 @@ color: #000000;
 
 
 position: absolute;
+
 width: 318px;
+
 height: 46px;
+
 left: 12px;
+
 top: 275px;
 
 font-family: 'Inter';
+
 font-style: normal;
+
 font-weight: 400;
+
 font-size: 20px;
+
 line-height: 24px;
+
 text-align: center;
+
 
 color: #000000;
 
@@ -115,16 +149,25 @@ color: #000000;
 
 
 position: absolute;
+
 width: 318px;
+
 height: 46px;
+
 left: 12px;
+
 top: 341px;
 
 font-family: 'Inter';
+
 font-style: normal;
+
 font-weight: 400;
+
 font-size: 20px;
+
 line-height: 24px;
+
 text-align: center;
 
 color: #000000;
@@ -135,16 +178,25 @@ color: #000000;
 
 
 position: absolute;
+
 width: 318px;
+
 height: 46px;
+
 left: 12px;
+
 top: 407px;
 
 font-family: 'Inter';
+
 font-style: normal;
+
 font-weight: 400;
+
 font-size: 20px;
+
 line-height: 24px;
+
 text-align: center;
 
 color: #000000;
@@ -155,16 +207,25 @@ color: #000000;
 
 
 position: absolute;
+
 width: 318px;
+
 height: 46px;
+
 left: 12px;
+
 top: 453px;
 
 font-family: 'Inter';
+
 font-style: normal;
+
 font-weight: 400;
+
 font-size: 20px;
+
 line-height: 24px;
+
 text-align: center;
 
 color: #000000;
@@ -175,12 +236,17 @@ color: #000000;
 
 
 position: absolute;
+
 width: 360px;
+
 height: 0px;
+
 left: 0px;
+
 top: 59px;
 
 border: 1px solid #000000;
+
 transform: rotate(-0.16deg);
 
 
@@ -188,9 +254,13 @@ transform: rotate(-0.16deg);
 
 
 position: absolute;
+
 width: 97px;
+
 height: 92px;
+
 left: 122px;
+
 top: 78px;
 
 background: url( seclogo.png)
